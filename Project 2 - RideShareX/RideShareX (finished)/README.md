@@ -100,39 +100,11 @@ RideShareX is a ride-sharing app that connects riders with drivers, allowing use
 [Add picture of your hand sketched wireframes in this section]
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 
-### [BONUS] Digital Wireframes & Mockups
+### Digital Wireframes & Mockups
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F1Xlx9k2pNEqXLBBsKB5u1z%2FRideShareX-Wireframe%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DLkLmsNUnqMKk7aeu-1" allowfullscreen></iframe>
 
-### [BONUS] Interactive Prototype
+### Interactive Prototype
 ![Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFnMjM5bGtjMGxybDE2NXZtMDNmYWMyemtjNW83ZTdyYndvdTQ1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UkZUSAr59Z6jKlGeEN/giphy.gif)
 
-###Build Progress Gif
-
-<div>
-    <a href="https://www.loom.com/share/07dae6c015fe431c97756013d24d10b6">
-    </a>
-    <a href="https://www.loom.com/share/07dae6c015fe431c97756013d24d10b6">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/07dae6c015fe431c97756013d24d10b6-with-play.gif">
-    </a>
-  </div>
-
-
-
-
-
-
-
-
-## Schema 
-
-[This section will be completed in Unit 9]
-
-### Models
-
-[Add table of models]
-
-### Networking
-
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+### DEMO - FINAL PRODUCT 
+![Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGgxdndqNDFpZ3VoZXE1dGE1MjFuMmk3NGpwcHF2N2d2czB1djU1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LRdtORkv6MtLuAnjfU/giphy.gif)
