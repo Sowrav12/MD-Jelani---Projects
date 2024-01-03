@@ -39,11 +39,13 @@ To view the website, open the `index.html` file in a web browser.
 
 - LinkedIn Profile: [MD Jelani's LinkedIn](https://www.linkedin.com/in/md-jelani/)
 - GitHub Repository: [MD Jelani's GitHub Projects](https://github.com/Sowrav12/MD-Jelani---Projects)
+- GitHub Repository - Project 1: [Project 1](https://github.com/Sowrav12/MD-Jelani---Projects/edit/main/Project%201%20-%20Photo%20Editor/Photo%20Editor/ReadMe.md)
+- GitHub Repository - Project 2: [Project 2](https://github.com/Sowrav12/MD-Jelani---Projects/tree/main/Project%202%20-%20RideShareX/RideShareX%20(finished))
+- GitHub Repository - Project 3: [Project 3](https://github.com/Sowrav12/MD-Jelani---Projects/tree/main/Project%203%20-%20Portfolio%20Website)
+
+## Demo
+![Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFjajVwOGV3ajlmbHBrdGNoMXU4a3liNmd4d2Vsb3Q2b3cxbjl4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/58aPMha8mQ9JJ2X6My/giphy.gif)
 
 ## Author
 
 This project was created by MD Jelani.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
