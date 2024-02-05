@@ -44,6 +44,6 @@ The `AzanTimes.json` file should have the following structure:
   },
   // Repeat for all months in the year
 }
-
+```
 ## Authors
 &copy; MD Golam Jelani and Depanker Shrestha
