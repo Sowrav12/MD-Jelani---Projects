@@ -39,10 +39,8 @@ The `AzanTimes.json` file should have the following structure:
       "Asr": [15, 15],
       "Maghrib": [17, 45],
       "Isha'a": [19, 0]
-    },
-    // Repeat for all days in January
-  },
-  // Repeat for all months in the year
+    }
+  }
 }
 ```
 ## Authors
